@@ -1,5 +1,5 @@
 # uniCenta oPOS 4.2 — Image-Size Fix  
-**Full GPL-3 source · Patched installers for Windows & Linux**
+**Full GPL-3 source · Patched installer for Windows**
 
 ---
 
